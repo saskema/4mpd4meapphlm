@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT367.315S" endTime="PT367.315S">
+    <parentFile fileName="file:///Z:\4-MPD/M222T357_N_pos_CE10.raw"
+                fileType="RAWData"
+                fileSha1="995d124145b197bad1aa7b60877bb68f09ef208f"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="43"
+          polarity="+"
+          retentionTime="PT367.315S"
+          collisionEnergy="10.0"
+          lowMz="50.473827362061"
+          highMz="222.14909362793"
+          basePeakMz="222.1490898"
+          basePeakIntensity="2.9248886e07"
+          totIonCurrent="7.8157408e07">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">222.149</precursorMz>
+      <peaks compressionType="none"
+             compressedLen="0"
+             precision="32"
+             byteOrder="network"
+             contentType="m/z-int">QknlM0Ytnj1CU4HZRghVXUJkO1ZGJTEjQnwYBkYp+rlCfmgbRgvE60KDl05GC46kQo2Kq0YTHEFCjYubR4XlIUKO1I9GDqk0QpApqUZ65OdCmhP3Rj5RMEKsMbVIWnQSQqwy+0ZnWfhCshQPRmjV70K2HAJIZdDtQsKTnUYuLXNC0hFnRmJ9hELSJA1Gx6afQtYZc0ZQ/whC7hlYRvYh30LyIVZHUjYEQwIQs0ZymqBDAxKuRye+U0MEFLhIjXw7QwQV8Eah3qxDBRn2Ryh6A0MHC0BIY7BWQwcMekZiie5DCD95Rho0oEMQFMxHJNnfQxQTY0ZfYShDHRYURkRW3kMhGKpLGGfoQy0YqUnR2hdDLR7DRyQ+3UMuIMZLn0XhQy7jtkYr9dpDOaOERjVSn0M6IMVLCBFiQz8bXUgetapDQCOBRozme0NMI3ZKZ0GKQ14mK0vfJrs=</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">766</offset>
+  </index>
+  <indexOffset>1924</indexOffset>
+  <sha1>455db0c75bcd9dd7bd9ed9aea6a4b20cbf2a325e</sha1>
+</mzXML>

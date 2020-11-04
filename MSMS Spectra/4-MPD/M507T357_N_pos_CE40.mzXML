@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT367.694S" endTime="PT367.694S">
+    <parentFile fileName="file:///Z:\4-MPD/M507T357_N_pos_CE40.raw"
+                fileType="RAWData"
+                fileSha1="a96d398eadcd2f506464aa263759c2be87406589"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="38"
+          polarity="+"
+          retentionTime="PT367.694S"
+          collisionEnergy="40.0"
+          lowMz="50.380081176758"
+          highMz="497.7138671875"
+          basePeakMz="286.1140114"
+          basePeakIntensity="2.3631584e05"
+          totIonCurrent="5.2482175e05">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">507.2558</precursorMz>
+      <peaks compressionType="none"
+             compressedLen="0"
+             precision="32"
+             byteOrder="network"
+             contentType="m/z-int">QkmFNERpxCdCTEY/RFO9dEJg7cZETi8EQmhDn0UuqWNCbLCRREj2v0J1irBEU94ZQos8QkSHs6lCiz0bRmHVOkKLat9EVCM3QpoDL0VNbuNCrDHBRVjfdEKwx+BEWrwMQrzNmUR2zTpCvgh2RoFSwkLCk81E6FMJQs4qT0Rh2jpC2hBzRYoKRELiDcxEvH+gQuXAPkSCVJ1C6hLsRdAyH0LsEHxGeXvbQvNkpUSFFYhC9gXMRIa+xkMEDENEneKnQw+gNUR8QM9DEhlqRF0gxEMb/yhEfBdWQygRskac9bRDKx0cRJFgS0MuILpFIagfQ0Tfq0RulotDRwJgRvdi7kNPcaFEZ/2qQ1UGfESUP3xDdBEyRqsOSEOGDT5H5WRiQ48OmEhmxvZD+NtgRJV+Lw==</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">766</offset>
+  </index>
+  <indexOffset>1872</indexOffset>
+  <sha1>5928fc85ab5471526818285189da00426e539156</sha1>
+</mzXML>

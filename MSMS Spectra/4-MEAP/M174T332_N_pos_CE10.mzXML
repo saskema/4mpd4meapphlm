@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT339.071S" endTime="PT339.071S">
+    <parentFile fileName="file:///Z:\4-MEAP/M174T332_N_pos_CE10.raw"
+                fileType="RAWData"
+                fileSha1="f94167d61183d1a805df1fa6278cca6f2b3e45de"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="37"
+          polarity="+"
+          retentionTime="PT339.071S"
+          collisionEnergy="10.0"
+          lowMz="56.171886444092"
+          highMz="191.99577331543"
+          basePeakMz="174.1281687"
+          basePeakIntensity="5.29877e05"
+          totIonCurrent="7.150145e05">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">174.1279</precursorMz>
+      <peaks compressionType="none"
+             compressedLen="0"
+             precision="32"
+             byteOrder="network"
+             contentType="m/z-int">QmCwA0QlMGpCZB0gREITSkJl7WJEImylQowh0URbMb9CjCSoRDqGvkKOoYJE9CP7QpAp0ERW5qVCrB84RGGSLkLDwaJEJwQxQuQvC0Q61KtC7D7vRGGlRkLtPYxESVRQQwMStEQ7vEtDA0b0REARyUMEEOBEtGMDQwQUwUcud0tDBPVeRGP7WUMFE4RGMbdJQwsTckRPD5ZDERa4RLA5LEMV8NxEaUYFQxb4CEWEqABDG/mPRJGL2kMcGjREmWeXQxwjdUU4oN9DHROMRLFzAEMfGtZEqUzkQyPijUQ/+q1DLfw3RSKMm0MuE5hFJf9wQy4YPkVwKaJDLhpgRxhQAUMuINBJAV1QQy4vfEbsOV9DLjFiRLy/qEM7//pEPadoQz/+60Q5sJY=</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">767</offset>
+  </index>
+  <indexOffset>1859</indexOffset>
+  <sha1>e34f3cb31e0dd508c55f69b677ac0f9ebfbbde5f</sha1>
+</mzXML>

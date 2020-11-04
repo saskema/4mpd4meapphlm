@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT346.793S" endTime="PT346.793S">
+    <parentFile fileName="file:///Z:\4-MEAP/M188T335_N_pos_CE20.raw"
+                fileType="RAWData"
+                fileSha1="74bfeee423e875de266f0e847aeb0151e693523a"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="41"
+          polarity="+"
+          retentionTime="PT346.793S"
+          collisionEnergy="20.0"
+          lowMz="50.58154296875"
+          highMz="202.655426025391"
+          basePeakMz="188.143744"
+          basePeakIntensity="4.9186381e05"
+          totIonCurrent="1.9798759e06">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">188.1435</precursorMz>
+      <peaks compressionType="none"
+             compressedLen="0"
+             precision="32"
+             byteOrder="network"
+             contentType="m/z-int">QkpTgEQla3ZCVpvNREaUJ0JkLcZENGGrQookP0SDFL1CjkI3RQn4C0KQFzBEhdhtQpQx10Q+GsVClkY0RC0BPUKaFC5EPx5/QqYsNURVX4FCrtuORC6opEK2HCFGDt9DQrzbtURSO5dCyx/rRDkmPELQGbpEXpwzQtlfFkRMKGtC6h2RRuHgE0LqI/tEqPGRQuwhlEh4IOFC7iwdRFrJmEL674lELtmNQwAQD0Tkjh5DABt4RMo+t0MBEghEk6qlQwIQwUfwTGZDAxK/RwkND0MD2KtEKn7xQwQUwkVvfdxDDxXhRKjofEMQFLpGZT3vQxEWwEg5ITBDEZa2REQfq0MSGMJI7SiJQx4YvEacP6dDHxkNRN497kMfGsRH5U42QyAcwkgIR4JDLR7NRRyhfkM6ILNEpzo/QzwkzEjwKvpDSqfKREZuUQ==</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">767</offset>
+  </index>
+  <indexOffset>1905</indexOffset>
+  <sha1>73c087c3da4a23343605ff7da18991c7dcd4f8d6</sha1>
+</mzXML>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT373.917S" endTime="PT373.917S">
+    <parentFile fileName="file:///Z:\4-MEAP/M238T367_N_pos_CE20.raw"
+                fileType="RAWData"
+                fileSha1="9e0a33096d81665aed9ef20f90a983af851e896f"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="104"
+          polarity="+"
+          retentionTime="PT373.917S"
+          collisionEnergy="20.0"
+          lowMz="52.967967987061"
+          highMz="253.76042175293"
+          basePeakMz="220.1700022"
+          basePeakIntensity="4.8900356e05"
+          totIonCurrent="1.074211e06">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">238.1802</precursorMz>
+      <peaks compressionType="none"
+             compressedLen="0"
+             precision="32"
+             byteOrder="network"
+             contentType="m/z-int">QlPfM0QiaC5CVwjjRDXoOkJZgUtEKtKgQmhCvUVcrFBCaER1RaYRsEKGHI5EZH8oQoj36kRBtL5CicFERDlPpkKMIRlE5pywQowiOEWLBXtCjTKTRY/IxEKOGghFS4ReQpAqJkRdLiJCkg9uRGjtS0KiFpREqaUsQqIXw0UeYvZCqCoORMW+j0KqId5EscgeQqwyD0R7Gh5CrhcrRJkHMUK2GvdEt8vPQrYckEYQ4pBCuiM1RHoNkEK6JI9FGC+RQrvw5ERBK3tCvU8vRD72X0K+H5NEkl57QsQyJ0VaQS9C0iKLRMKVNELSJIRF0grNQtNxnkQyAQdC1hnVRRE6tkLaJelEVguOQtonoEUoypJC3DIJRI4dZELd54dERiEBQt4vgkSWv9JC4Dg6RGMhRELgOg5FMDG5QuokbkYn63VC7ixHRIKrOkLyIdZGNNMzQvYvg0UFB8xC+DnzRNywPEMBEhZE31zZQwIUG0Q9Xo9DAijwRIEACUMDFhpEna1wQwQU6ETxsBZDBRDNROvam0MHFOJEfRwrQweRxUQ28t9DCBOXRHYrs0MIHOREhfTBQwkPdkRPIphDCRu1RLwl2UMKIOpEQds6Qw8WGkUB/vVDD6hDREQC20MRGfRHfnHKQxL5oUTaCg1DEx4YRLtX0EMUHLpFpsU8QxUVbEWEpUxDFhebRKSNZkMXH6REVwRLQxkjrkS6P9tDHRn0RdLgM0MgHNtFOXPaQyEe5kUQxoNDIheWRTcT+UMiINBFge3MQyMZqkSx1e9DIxyrRgx2z0MkG3pGAeD0Qyf5rESVu6JDKf2URYCTtUMt7S1EXxTzQy8czkUSsQlDMBuWRQ4xNkMxHXtHkKODQzIfeUZGfpNDMx5SRXbR/EMzJ41HGhEHQzMpn0SvgLtDPSblRJk+CUM+KMJGH7fMQz4qlkRYJsJDPyFmRWaayEM/+OxF7gnsQ0Ajc0YYjP1DQQHIRQ+WyUNBK5tFreaUQ0MmYUSq1JRDRC5+ROAB/UNHeWZEQehRQ0ooukSzJetDVvz0RM1rNUNcK4VI7sVyQ10qRUe5/QlDbif5RSQ75ENuLkpFBdFHQ24xBUccEYVDfcKrRE2Alw==</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">767</offset>
+  </index>
+  <indexOffset>2578</indexOffset>
+  <sha1>3e585e69501bab6bb91fc25807246caa8c1deab6</sha1>
+</mzXML>

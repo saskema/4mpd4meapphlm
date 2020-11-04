@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT234.464S" endTime="PT234.464S">
+    <parentFile fileName="file:///Z:\4-MPD/M300T234_R_pos_CE40.raw"
+                fileType="RAWData"
+                fileSha1="00676e2fb044c55d6053746302c96c60b45638f8"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="28"
+          polarity="+"
+          retentionTime="PT234.464S"
+          collisionEnergy="40.0"
+          lowMz="51.838241577148"
+          highMz="229.737213134766"
+          basePeakMz="70.25248895"
+          basePeakIntensity="4984.7207"
+          totIonCurrent="32159.041000000001">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">300.0596</precursorMz>
+      <peaks compressionType="none"
+             compressedLen="0"
+             precision="32"
+             byteOrder="network"
+             contentType="m/z-int">Qk9aXEQqJD1CUEfCRDUy0kJY3jdEN/apQmRIh0ReY8FChEGsREnxTUKGHENEi/h/QoyBRkWbxcRCjIJcROPRKEKVnflEWiRKQpd4jkQ2EJdCsh7yRGPKW0K6JCNEnWwZQtYsO0RfvWlC3hbxREW7y0Lk1vFEM6MPQuZEwkQ01F9C56t2REJV+ULuK/FEp1NDQvC9wURenlZC9il0RLUu1kMDFe9EgJTrQwkPSERl5bNDFRiyRIxaBUMfFKNERpYVQx+d5ERPLB9DK/dxRE4nfkM6n0tEPE1rQ2W8ukRZqN4=</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">766</offset>
+  </index>
+  <indexOffset>1769</indexOffset>
+  <sha1>7730cd91bcda00cb7525f8616692bb423a6e2c55</sha1>
+</mzXML>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT323.493S" endTime="PT323.493S">
+    <parentFile fileName="file:///Z:\4-MEAP/M222T314_N_pos_CE10.raw"
+                fileType="RAWData"
+                fileSha1="ce5c8c6a3f4dc6b36c6fc81ba3b1b9b2fb3f9710"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="34"
+          polarity="+"
+          retentionTime="PT323.493S"
+          collisionEnergy="10.0"
+          lowMz="53.787254333496"
+          highMz="222.558166503906"
+          basePeakMz="204.1750939"
+          basePeakIntensity="1.8988915e06"
+          totIonCurrent="2.3938042e06">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">222.1854</precursorMz>
+      <peaks compressionType="none"
+             compressedLen="0"
+             precision="32"
+             byteOrder="network"
+             contentType="m/z-int">QlcmJkQtZuRCaENVRIMW2kJ52h1ERkbVQoEttUQ3nTBChlO9RD52V0KOQbRFHQEsQq4W6ESgFDNC0SGKRCxVD0LSI+tFxciFQtvTbkQv+7RC6iPaRH3qN0LyIVlFDaTaQvRwxkQ2SdpDBxSxRHP4fkMH6YtEHBMQQwog40Qb9R9DFBy+RKAAnkMYh8dEHw24Qx8d+UadPiNDIR7FRZ7s8EMiILRFGBYRQyMWHkROIuBDIx+ARKt2m0MkHD5FTOFAQzEgqkaNMuhDMx5tRJmPjkNMLNNJ58xcQ14UMkRE8AVDXhzKRUBqIUNeH7lFKv2IQ14m1EcalPpDXilSRdDmlENeL4NInNbuQ16O5ER8f+8=</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">767</offset>
+  </index>
+  <indexOffset>1831</indexOffset>
+  <sha1>0c7a01bc81e96c8314790f3876c6c405a94000d1</sha1>
+</mzXML>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mzXML xmlns="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://sashimi.sourceforge.net/schema_revision/mzXML_3.2 http://sashimi.sourceforge.net/schema_revision/mzXML_3.2/mzXML_idx_3.2.xsd">
+  <msRun scanCount="1" startTime="PT96.4774S" endTime="PT96.4774S">
+    <parentFile fileName="file:///Z:\4-MPD/M238T94_N_pos_CE10.raw"
+                fileType="RAWData"
+                fileSha1="4d69448365cf9ece01561b602fb4d777c109603f"/>
+    <dataProcessing>
+      <software type="conversion" name="ProteoWizard software" version="3.0.10875"/>
+      <processingOperation name="Conversion to mzML"/>
+    </dataProcessing>
+    <scan num="1"
+          scanType="Full"
+          centroided="1"
+          msLevel="2"
+          peaksCount="50"
+          polarity="+"
+          retentionTime="PT96.4774S"
+          collisionEnergy="10.0"
+          lowMz="55.182010650635"
+          highMz="238.190185546875"
+          basePeakMz="135.0442724"
+          basePeakIntensity="2.2794934e05"
+          totIonCurrent="5.7984631e05">
+      <precursorMz precursorIntensity="0" activationMethod="HCD" windowWideness="1.0">238.1438</precursorMz>
+      <peaks compressionType="none"
+             compressedLen="0"
+             precision="32"
+             byteOrder="network"
+             contentType="m/z-int">Qly6YUQ+F25CbDNNRJiybkJ3K79EL6YyQojer0QmYy9CjUn5RZpq+UKU6NNEJfzzQpmN30QpUntCpeZfRFx61kKoKb9Gaox1Qq4W7UUluCVCthwfRJOWoULKHuNFA526QvIhWkVrktFC9hxZREHA4UMDFfRFGi/zQwQUwETZ5q9DBwtVSF6bVkMQFNJEaY4AQxMRdkSTV/lDFBNsRdzpo0MgE3dF3Fo2QyAcuUQunFpDIOpsREBH2EMhGK5FaNwaQyIXXET98d5DIhv0RDjT7kMn+aNEx2PFQyr/kUTOxJJDLByvROFsxEMuILlEaNJ0QzEUHER25EdDMhYiRZHOMkM9AlVEUsqvQz0dckaNNoJDPh9qRmT1BEM/+M1FmpamQ0AaO0R9TpdDQCN9RYL9EENBH5FEoHvKQ0dmBEQ9VkdDSh96RhdB4kNLIQdEn5c9Q1QGg0Q/I4pDVvz6RruM0UNcIiRHHEhMQ10aBkROyVVDYzkLRDxc0ENuARJEX6sZQ24k1kgIiGNDbjCwRMROGA==</peaks>
+    </scan>
+  </msRun>
+  <index name="scan">
+    <offset id="1">765</offset>
+  </index>
+  <indexOffset>2001</indexOffset>
+  <sha1>5c2d2a072c47888394b6446284de3b96fc77b5de</sha1>
+</mzXML>
